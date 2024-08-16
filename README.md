@@ -1,0 +1,2 @@
+At step 90, where the validation loss is at its highest and accuracy is at its lowest, the model is likely experiencing overfitting. This is indicated by a low training loss coupled with high validation loss and reduced accuracy.
+The final steps (110 and 120) show an optimal balance with low validation loss and high accuracy, suggesting that the model has achieved a good generalization capability by the end of this fine-tuning phase. This is an encouraging sign that the fine-tuning process has successfully enhanced the model's performance on the validation dataset.
